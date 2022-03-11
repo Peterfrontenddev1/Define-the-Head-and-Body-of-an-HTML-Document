@@ -2,3 +2,4 @@
 head and body structure
 
 <!DOCTYPE html>
+<html>
